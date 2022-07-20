@@ -1,0 +1,10 @@
+player 450
+qwe 350
+ty 350
+qwr 150
+pl1 150
+ilya 9
+me 8
+ilya 8
+record 6
+record 5
